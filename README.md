@@ -16,10 +16,10 @@ Time Range: 2023 – early 2024
 (Note: Incomplete data for January 2024 was excluded from trend analysis.)
 
 ## Tools Used
-Python
-Pandas
-Matplotlib / Seaborn
-Jupyter Notebook
+Python,
+Pandas,
+Matplotlib,
+Jupyter Notebook.
 
 ## Analysis Workflow
 1. Data Cleaning & Preprocessing
